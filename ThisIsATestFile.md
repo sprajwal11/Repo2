@@ -1,0 +1,1 @@
+# This repository is just to teach students, how to use git
